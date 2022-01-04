@@ -12,18 +12,17 @@ text-align: center;
 
 .features {
 background-color: white; 
-columns: #000;
+color: #000;
 }
 
 .quote {
  background-color: #549da0;
- columns: white;
+ color: white;
 }
 
-.footer {
+footer {
 background-color: #353535;
 padding: 32px 0;
 text-align: center;
 color: #868686;
-
 }
