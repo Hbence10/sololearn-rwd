@@ -134,10 +134,10 @@ blockquote cite::before {
     section {
         padding: 25px 0 15px 0;
     }
-}
 
-.feature {
-    width: 100%;
+
+    .feature {
+        width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -180,4 +180,31 @@ blockquote cite {
 .footer li {
     display: block;
     margin: 5px 0;
+}
+
+
+body {
+    font-size: 16px;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+html {
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+.btn {
+    font-size: 1.25rem;
+}
+
 }
