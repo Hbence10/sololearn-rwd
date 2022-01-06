@@ -4,6 +4,3 @@ $(function() {
     });
 });
 
-.submenu {
-    display: none;
-}
